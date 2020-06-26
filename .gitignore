@@ -162,6 +162,9 @@ fastercnn-model
 #visual studio code
 .vscode
 
+#Folders
+iterdet/work_dirs
+
 
 
 
